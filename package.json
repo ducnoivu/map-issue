@@ -147,8 +147,8 @@
         "PHOTOLIBRARY_USAGE_DESCRIPTION": "take photo of cars and for registration process"
       },
       "cordova-plugin-googlemaps": {
-        "API_KEY_FOR_ANDROID": "AIzaSyARIp78CfIW3CpCxtuAFTflO5lx8_JH490",
-        "API_KEY_FOR_IOS": "AIzaSyDP43vuNn3POg5L07CWjzSjXU4Hr-_m8fE",
+        "API_KEY_FOR_ANDROID": "<key here>",
+        "API_KEY_FOR_IOS": "<key here>",
         "PLAY_SERVICES_VERSION": "15.0.1",
         "ANDROID_SUPPORT_V4_VERSION": "26.1.0",
         "LOCATION_WHEN_IN_USE_DESCRIPTION": "This app wants to get your location while this app runs only.",
